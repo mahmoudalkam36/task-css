@@ -1,0 +1,58 @@
+.h1{
+    text-align: center;
+    font-size: 72px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bolder;
+  background: linear-gradient( to right,#f10000, #0800ff);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+.main{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    justify-content: space-around;
+
+}
+.card1{
+    width: 250px;
+    height:350px;
+    background-color: #0800ff;
+    border-radius: 7%;
+    
+}
+.card1 .img1{
+    margin-left: 57px;
+    margin-top: 10px;
+width:123px;
+height: 123px; 
+border-radius: 50%;
+}
+.card2{
+    width: 250px;
+    height:350px;
+    background-color: #f10000;
+    border-radius: 7%;
+}  
+.card2 .img2{
+    margin-top: 10px;
+        margin-left: 57px;
+border-radius: 50%;
+width:123px;
+height: 123px;
+}
+
+.card3{
+    width: 250px;
+    height:350px;
+    background-color: aquamarine;
+    border-radius: 7%;
+}
+
+ .card3 .img3{
+    margin-top: 10px;
+        margin-left: 57px;
+border-radius: 50%;
+width: 123px;
+height: 123px;
+}
