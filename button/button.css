@@ -1,0 +1,6 @@
+.hidden{
+    display: none;
+}
+#mybutton:checked ~ #hiddenText{
+    display:block;
+}
